@@ -1,0 +1,5 @@
+CSS externo com class* (0,6) e id (0,6);
+- Conteúdo coerente com o tema escolhido* (0,2);
+- Links* (0,3);
+- Imagens* (0,5), imagem de fundo* (0,5), mapa de imagens (0,5) e picture* (0,5);
+- Atributos (0,5): cor*, margin*, padding*, font* e outros;
