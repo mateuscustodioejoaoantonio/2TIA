@@ -1,4 +1,11 @@
-.head {
+body{
+    background-image: url("imagens1/pisoquadra.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    margin: 0;
+        }
+.cabeça {
     background-color: rgb(250, 218, 115);
     padding: 20px;
     text-align: center;
